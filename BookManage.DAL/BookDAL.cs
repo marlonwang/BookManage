@@ -44,7 +44,7 @@ namespace BookManage.DAL
             }
             return rows;
         }
-        //是否允许删除？？　理论上不可删
+        //不允许删除 not use
         //delete
         public static int Delete(Book book)
         {
