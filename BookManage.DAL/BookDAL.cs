@@ -44,7 +44,7 @@ namespace BookManage.DAL
             }
             return rows;
         }
-        //不允许删除 not use
+        //不允许删除 实际未使用
         //delete
         public static int Delete(Book book)
         {
