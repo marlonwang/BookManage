@@ -109,7 +109,7 @@ namespace BookManage.DAL
             return SqlHelper.DataRowToT<ReaderType>(dr);
             //????
         }
-        //GetAll()
+        //GetAllReaderType()
         public static DataTable GetAll()
         {
             string sql = "select * from BMS_ReaderType";
