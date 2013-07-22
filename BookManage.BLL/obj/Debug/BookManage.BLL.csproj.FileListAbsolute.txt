@@ -1,0 +1,81 @@
+C:\project\BookMan\BookManage.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\project\BookMan\BookManage.BLL\bin\Debug\BookManage.BLL.dll
+C:\project\BookMan\BookManage.BLL\bin\Debug\BookManage.BLL.pdb
+C:\project\BookMan\BookManage.BLL\bin\Debug\BookManage.DAL.dll
+C:\project\BookMan\BookManage.BLL\bin\Debug\BookManage.Model.dll
+C:\project\BookMan\BookManage.BLL\bin\Debug\BookManage.Model.pdb
+C:\project\BookMan\BookManage.BLL\bin\Debug\BookManage.DAL.pdb
+C:\project\BookMan\BookManage.BLL\obj\Debug\BookManage.BLL.dll
+C:\project\BookMan\BookManage.BLL\obj\Debug\BookManage.BLL.pdb
+E:\bakup_1211\BookManage.BLL\bin\Debug\BookManage.BLL.dll
+E:\bakup_1211\BookManage.BLL\bin\Debug\BookManage.BLL.pdb
+E:\bakup_1211\BookManage.BLL\bin\Debug\BookManage.DAL.dll
+E:\bakup_1211\BookManage.BLL\bin\Debug\BookManage.Model.dll
+E:\bakup_1211\BookManage.BLL\bin\Debug\BookManage.Model.pdb
+E:\bakup_1211\BookManage.BLL\bin\Debug\BookManage.DAL.pdb
+E:\bakup_1211\BookManage.BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\bakup_1211\BookManage.BLL\obj\Debug\BookManage.BLL.dll
+E:\bakup_1211\BookManage.BLL\obj\Debug\BookManage.BLL.pdb
+C:\project\bakup_1212\BookManage.BLL\bin\Debug\BookManage.BLL.dll
+C:\project\bakup_1212\BookManage.BLL\bin\Debug\BookManage.BLL.pdb
+C:\project\bakup_1212\BookManage.BLL\bin\Debug\BookManage.DAL.dll
+C:\project\bakup_1212\BookManage.BLL\bin\Debug\BookManage.Model.dll
+C:\project\bakup_1212\BookManage.BLL\bin\Debug\BookManage.Model.pdb
+C:\project\bakup_1212\BookManage.BLL\bin\Debug\BookManage.DAL.pdb
+C:\project\bakup_1212\BookManage.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\project\bakup_1212\BookManage.BLL\obj\Debug\BookManage.BLL.dll
+C:\project\bakup_1212\BookManage.BLL\obj\Debug\BookManage.BLL.pdb
+C:\project\bakup_1213\BookManage.BLL\bin\Debug\BookManage.BLL.dll
+C:\project\bakup_1213\BookManage.BLL\bin\Debug\BookManage.BLL.pdb
+C:\project\bakup_1213\BookManage.BLL\bin\Debug\BookManage.DAL.dll
+C:\project\bakup_1213\BookManage.BLL\bin\Debug\BookManage.Model.dll
+C:\project\bakup_1213\BookManage.BLL\bin\Debug\BookManage.Model.pdb
+C:\project\bakup_1213\BookManage.BLL\bin\Debug\BookManage.DAL.pdb
+C:\project\bakup_1213\BookManage.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\project\bakup_1213\BookManage.BLL\obj\Debug\BookManage.BLL.dll
+C:\project\bakup_1213\BookManage.BLL\obj\Debug\BookManage.BLL.pdb
+F:\新建文件夹\bakup_1213\BookManage.BLL\bin\Debug\BookManage.BLL.dll
+F:\新建文件夹\bakup_1213\BookManage.BLL\bin\Debug\BookManage.BLL.pdb
+F:\新建文件夹\bakup_1213\BookManage.BLL\bin\Debug\BookManage.DAL.dll
+F:\新建文件夹\bakup_1213\BookManage.BLL\bin\Debug\BookManage.Model.dll
+F:\新建文件夹\bakup_1213\BookManage.BLL\bin\Debug\BookManage.Model.pdb
+F:\新建文件夹\bakup_1213\BookManage.BLL\bin\Debug\BookManage.DAL.pdb
+F:\新建文件夹\bakup_1213\BookManage.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\新建文件夹\bakup_1213\BookManage.BLL\obj\Debug\BookManage.BLL.dll
+F:\新建文件夹\bakup_1213\BookManage.BLL\obj\Debug\BookManage.BLL.pdb
+C:\project\bakup_1216\BookManage.BLL\bin\Debug\BookManage.BLL.dll
+C:\project\bakup_1216\BookManage.BLL\bin\Debug\BookManage.BLL.pdb
+C:\project\bakup_1216\BookManage.BLL\bin\Debug\BookManage.DAL.dll
+C:\project\bakup_1216\BookManage.BLL\bin\Debug\BookManage.Model.dll
+C:\project\bakup_1216\BookManage.BLL\bin\Debug\BookManage.Model.pdb
+C:\project\bakup_1216\BookManage.BLL\bin\Debug\BookManage.DAL.pdb
+C:\project\bakup_1216\BookManage.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\project\bakup_1216\BookManage.BLL\obj\Debug\BookManage.BLL.dll
+C:\project\bakup_1216\BookManage.BLL\obj\Debug\BookManage.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1218\BookManage.BLL\bin\Debug\BookManage.BLL.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1218\BookManage.BLL\bin\Debug\BookManage.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1218\BookManage.BLL\bin\Debug\BookManage.DAL.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1218\BookManage.BLL\bin\Debug\BookManage.Model.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1218\BookManage.BLL\bin\Debug\BookManage.Model.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1218\BookManage.BLL\bin\Debug\BookManage.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1218\BookManage.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\bakup_1218\BookManage.BLL\obj\Debug\BookManage.BLL.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1218\BookManage.BLL\obj\Debug\BookManage.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\BookManage.BLL\bin\Debug\BookManage.BLL.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\BookManage.BLL\bin\Debug\BookManage.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\BookManage.BLL\bin\Debug\BookManage.DAL.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\BookManage.BLL\bin\Debug\BookManage.Model.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\BookManage.BLL\bin\Debug\BookManage.Model.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\BookManage.BLL\bin\Debug\BookManage.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\BookManage.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\BookManage.BLL\obj\Debug\BookManage.BLL.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\BookManage.BLL\obj\Debug\BookManage.BLL.pdb
+C:\project\bakup_1220\bakup_1218\BookManage.BLL\bin\Debug\BookManage.BLL.dll
+C:\project\bakup_1220\bakup_1218\BookManage.BLL\bin\Debug\BookManage.BLL.pdb
+C:\project\bakup_1220\bakup_1218\BookManage.BLL\bin\Debug\BookManage.DAL.dll
+C:\project\bakup_1220\bakup_1218\BookManage.BLL\bin\Debug\BookManage.Model.dll
+C:\project\bakup_1220\bakup_1218\BookManage.BLL\bin\Debug\BookManage.Model.pdb
+C:\project\bakup_1220\bakup_1218\BookManage.BLL\bin\Debug\BookManage.DAL.pdb
+C:\project\bakup_1220\bakup_1218\BookManage.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\project\bakup_1220\bakup_1218\BookManage.BLL\obj\Debug\BookManage.BLL.dll
+C:\project\bakup_1220\bakup_1218\BookManage.BLL\obj\Debug\BookManage.BLL.pdb

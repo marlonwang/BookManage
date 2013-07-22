@@ -1,0 +1,27 @@
+F:\新建文件夹\bakup_1213\BookManage.BLL\bin\Release\BookManage.BLL.dll
+F:\新建文件夹\bakup_1213\BookManage.BLL\bin\Release\BookManage.BLL.pdb
+F:\新建文件夹\bakup_1213\BookManage.BLL\bin\Release\BookManage.DAL.dll
+F:\新建文件夹\bakup_1213\BookManage.BLL\bin\Release\BookManage.Model.dll
+F:\新建文件夹\bakup_1213\BookManage.BLL\bin\Release\BookManage.Model.pdb
+F:\新建文件夹\bakup_1213\BookManage.BLL\bin\Release\BookManage.DAL.pdb
+F:\新建文件夹\bakup_1213\BookManage.BLL\obj\Release\ResolveAssemblyReference.cache
+F:\新建文件夹\bakup_1213\BookManage.BLL\obj\Release\BookManage.BLL.dll
+F:\新建文件夹\bakup_1213\BookManage.BLL\obj\Release\BookManage.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1218\BookManage.BLL\bin\Release\BookManage.BLL.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1218\BookManage.BLL\bin\Release\BookManage.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1218\BookManage.BLL\bin\Release\BookManage.DAL.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1218\BookManage.BLL\bin\Release\BookManage.Model.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1218\BookManage.BLL\bin\Release\BookManage.Model.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1218\BookManage.BLL\bin\Release\BookManage.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1218\BookManage.BLL\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\bakup_1218\BookManage.BLL\obj\Release\BookManage.BLL.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1218\BookManage.BLL\obj\Release\BookManage.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\BookManage.BLL\bin\Release\BookManage.BLL.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\BookManage.BLL\bin\Release\BookManage.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\BookManage.BLL\bin\Release\BookManage.DAL.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\BookManage.BLL\bin\Release\BookManage.Model.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\BookManage.BLL\bin\Release\BookManage.Model.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\BookManage.BLL\bin\Release\BookManage.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\BookManage.BLL\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\BookManage.BLL\obj\Release\BookManage.BLL.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\BookManage.BLL\obj\Release\BookManage.BLL.pdb
