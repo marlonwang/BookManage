@@ -10,6 +10,8 @@ namespace BookManage.DAL
 {
     public class BorrowDAL
     {
+		//BMS_Borrow表中插改由存储过程实现
+		//以下方法未用
         //insert
         public static int Add(Borrow borrow)
         {
