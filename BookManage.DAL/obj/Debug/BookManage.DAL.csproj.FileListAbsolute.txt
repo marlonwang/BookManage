@@ -1,0 +1,63 @@
+C:\project\BookMan\BookManage.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\project\BookMan\BookManage.DAL\bin\Debug\BookManage.DAL.dll
+C:\project\BookMan\BookManage.DAL\bin\Debug\BookManage.DAL.pdb
+C:\project\BookMan\BookManage.DAL\bin\Debug\BookManage.Model.dll
+C:\project\BookMan\BookManage.DAL\bin\Debug\BookManage.Model.pdb
+C:\project\BookMan\BookManage.DAL\obj\Debug\BookManage.DAL.dll
+C:\project\BookMan\BookManage.DAL\obj\Debug\BookManage.DAL.pdb
+E:\bakup_1211\BookManage.DAL\bin\Debug\BookManage.DAL.dll
+E:\bakup_1211\BookManage.DAL\bin\Debug\BookManage.DAL.pdb
+E:\bakup_1211\BookManage.DAL\bin\Debug\BookManage.Model.dll
+E:\bakup_1211\BookManage.DAL\bin\Debug\BookManage.Model.pdb
+E:\bakup_1211\BookManage.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\bakup_1211\BookManage.DAL\obj\Debug\BookManage.DAL.dll
+E:\bakup_1211\BookManage.DAL\obj\Debug\BookManage.DAL.pdb
+C:\project\bakup_1212\BookManage.DAL\bin\Debug\BookManage.DAL.dll
+C:\project\bakup_1212\BookManage.DAL\bin\Debug\BookManage.DAL.pdb
+C:\project\bakup_1212\BookManage.DAL\bin\Debug\BookManage.Model.dll
+C:\project\bakup_1212\BookManage.DAL\bin\Debug\BookManage.Model.pdb
+C:\project\bakup_1212\BookManage.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\project\bakup_1212\BookManage.DAL\obj\Debug\BookManage.DAL.dll
+C:\project\bakup_1212\BookManage.DAL\obj\Debug\BookManage.DAL.pdb
+C:\project\bakup_1213\BookManage.DAL\bin\Debug\BookManage.DAL.dll
+C:\project\bakup_1213\BookManage.DAL\bin\Debug\BookManage.DAL.pdb
+C:\project\bakup_1213\BookManage.DAL\bin\Debug\BookManage.Model.dll
+C:\project\bakup_1213\BookManage.DAL\bin\Debug\BookManage.Model.pdb
+C:\project\bakup_1213\BookManage.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\project\bakup_1213\BookManage.DAL\obj\Debug\BookManage.DAL.dll
+C:\project\bakup_1213\BookManage.DAL\obj\Debug\BookManage.DAL.pdb
+F:\新建文件夹\bakup_1213\BookManage.DAL\bin\Debug\BookManage.DAL.dll
+F:\新建文件夹\bakup_1213\BookManage.DAL\bin\Debug\BookManage.DAL.pdb
+F:\新建文件夹\bakup_1213\BookManage.DAL\bin\Debug\BookManage.Model.dll
+F:\新建文件夹\bakup_1213\BookManage.DAL\bin\Debug\BookManage.Model.pdb
+F:\新建文件夹\bakup_1213\BookManage.DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\新建文件夹\bakup_1213\BookManage.DAL\obj\Debug\BookManage.DAL.dll
+F:\新建文件夹\bakup_1213\BookManage.DAL\obj\Debug\BookManage.DAL.pdb
+C:\project\bakup_1216\BookManage.DAL\bin\Debug\BookManage.DAL.dll
+C:\project\bakup_1216\BookManage.DAL\bin\Debug\BookManage.DAL.pdb
+C:\project\bakup_1216\BookManage.DAL\bin\Debug\BookManage.Model.dll
+C:\project\bakup_1216\BookManage.DAL\bin\Debug\BookManage.Model.pdb
+C:\project\bakup_1216\BookManage.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\project\bakup_1216\BookManage.DAL\obj\Debug\BookManage.DAL.dll
+C:\project\bakup_1216\BookManage.DAL\obj\Debug\BookManage.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1218\BookManage.DAL\bin\Debug\BookManage.DAL.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1218\BookManage.DAL\bin\Debug\BookManage.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1218\BookManage.DAL\bin\Debug\BookManage.Model.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1218\BookManage.DAL\bin\Debug\BookManage.Model.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1218\BookManage.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\bakup_1218\BookManage.DAL\obj\Debug\BookManage.DAL.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1218\BookManage.DAL\obj\Debug\BookManage.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\BookManage.DAL\bin\Debug\BookManage.DAL.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\BookManage.DAL\bin\Debug\BookManage.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\BookManage.DAL\bin\Debug\BookManage.Model.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\BookManage.DAL\bin\Debug\BookManage.Model.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\BookManage.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\BookManage.DAL\obj\Debug\BookManage.DAL.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\BookManage.DAL\obj\Debug\BookManage.DAL.pdb
+C:\project\bakup_1220\bakup_1218\BookManage.DAL\bin\Debug\BookManage.DAL.dll
+C:\project\bakup_1220\bakup_1218\BookManage.DAL\bin\Debug\BookManage.DAL.pdb
+C:\project\bakup_1220\bakup_1218\BookManage.DAL\bin\Debug\BookManage.Model.dll
+C:\project\bakup_1220\bakup_1218\BookManage.DAL\bin\Debug\BookManage.Model.pdb
+C:\project\bakup_1220\bakup_1218\BookManage.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\project\bakup_1220\bakup_1218\BookManage.DAL\obj\Debug\BookManage.DAL.dll
+C:\project\bakup_1220\bakup_1218\BookManage.DAL\obj\Debug\BookManage.DAL.pdb
