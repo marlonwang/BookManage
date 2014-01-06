@@ -1,0 +1,193 @@
+C:\project\BookMan\ViewMain\bin\Debug\ViewMain.exe
+C:\project\BookMan\ViewMain\bin\Debug\ViewMain.pdb
+C:\project\BookMan\ViewMain\obj\Debug\ResolveAssemblyReference.cache
+C:\project\BookMan\ViewMain\obj\Debug\ViewMain.exe
+C:\project\BookMan\ViewMain\obj\Debug\ViewMain.pdb
+C:\project\BookMan\ViewMain\obj\Debug\ViewMain.csproj.GenerateResource.Cache
+C:\project\BookMan\ViewMain\obj\Debug\ViewMain.BMSLogin.resources
+C:\project\BookMan\ViewMain\bin\Debug\BookManage.BLL.dll
+C:\project\BookMan\ViewMain\bin\Debug\BookManage.Model.dll
+C:\project\BookMan\ViewMain\bin\Debug\BookManage.Model.pdb
+C:\project\BookMan\ViewMain\bin\Debug\BookManage.BLL.pdb
+C:\project\BookMan\ViewMain\obj\Debug\ViewMain.BookForm.resources
+C:\project\BookMan\ViewMain\obj\Debug\ViewMain.Properties.Resources.resources
+C:\project\BookMan\ViewMain\bin\Debug\BookManage.DAL.dll
+C:\project\BookMan\ViewMain\bin\Debug\BookManage.DAL.pdb
+E:\BookManage\BookMan\ViewMain\obj\Debug\ViewMain.exe
+E:\BookManage\BookMan\ViewMain\obj\Debug\ViewMain.pdb
+E:\BookManage\BookMan\ViewMain\bin\Debug\ViewMain.exe
+E:\BookManage\BookMan\ViewMain\bin\Debug\ViewMain.pdb
+E:\BookManage\BookMan\ViewMain\bin\Debug\BookManage.BLL.dll
+E:\BookManage\BookMan\ViewMain\bin\Debug\BookManage.Model.dll
+E:\BookManage\BookMan\ViewMain\bin\Debug\BookManage.DAL.dll
+E:\BookManage\BookMan\ViewMain\bin\Debug\BookManage.Model.pdb
+E:\BookManage\BookMan\ViewMain\bin\Debug\BookManage.BLL.pdb
+E:\BookManage\BookMan\ViewMain\bin\Debug\BookManage.DAL.pdb
+E:\BookManage\BookMan\ViewMain\obj\Debug\ResolveAssemblyReference.cache
+E:\BookManage\BookMan\ViewMain\obj\Debug\ViewMain.BMSLogin.resources
+E:\BookManage\BookMan\ViewMain\obj\Debug\ViewMain.BookForm.resources
+E:\BookManage\BookMan\ViewMain\obj\Debug\ViewMain.Properties.Resources.resources
+E:\BookManage\BookMan\ViewMain\obj\Debug\ViewMain.csproj.GenerateResource.Cache
+D:\BookManage\BookMan\ViewMain\obj\Debug\ViewMain.exe
+D:\BookManage\BookMan\ViewMain\obj\Debug\ViewMain.pdb
+C:\project\BookMan\ViewMain\obj\Debug\ViewMain.ReaderForm.resources
+E:\bakup_1211\ViewMain\obj\Debug\ViewMain.exe
+E:\bakup_1211\ViewMain\obj\Debug\ViewMain.pdb
+E:\bakup_1211\ViewMain\bin\Debug\ViewMain.exe
+E:\bakup_1211\ViewMain\bin\Debug\ViewMain.pdb
+E:\bakup_1211\ViewMain\bin\Debug\BookManage.BLL.dll
+E:\bakup_1211\ViewMain\bin\Debug\BookManage.Model.dll
+E:\bakup_1211\ViewMain\bin\Debug\BookManage.DAL.dll
+E:\bakup_1211\ViewMain\bin\Debug\BookManage.Model.pdb
+E:\bakup_1211\ViewMain\bin\Debug\BookManage.BLL.pdb
+E:\bakup_1211\ViewMain\bin\Debug\BookManage.DAL.pdb
+E:\bakup_1211\ViewMain\obj\Debug\ResolveAssemblyReference.cache
+E:\bakup_1211\ViewMain\obj\Debug\ViewMain.BMSLogin.resources
+E:\bakup_1211\ViewMain\obj\Debug\ViewMain.BookForm.resources
+E:\bakup_1211\ViewMain\obj\Debug\ViewMain.Properties.Resources.resources
+E:\bakup_1211\ViewMain\obj\Debug\ViewMain.ReaderForm.resources
+E:\bakup_1211\ViewMain\obj\Debug\ViewMain.TypeForm.resources
+E:\bakup_1211\ViewMain\obj\Debug\ViewMain.csproj.GenerateResource.Cache
+C:\project\bakup_1212\ViewMain\obj\Debug\ViewMain.exe
+C:\project\bakup_1212\ViewMain\obj\Debug\ViewMain.pdb
+C:\project\bakup_1212\ViewMain\bin\Debug\ViewMain.exe
+C:\project\bakup_1212\ViewMain\bin\Debug\ViewMain.pdb
+C:\project\bakup_1212\ViewMain\bin\Debug\BookManage.BLL.dll
+C:\project\bakup_1212\ViewMain\bin\Debug\BookManage.Model.dll
+C:\project\bakup_1212\ViewMain\bin\Debug\BookManage.DAL.dll
+C:\project\bakup_1212\ViewMain\bin\Debug\BookManage.Model.pdb
+C:\project\bakup_1212\ViewMain\bin\Debug\BookManage.BLL.pdb
+C:\project\bakup_1212\ViewMain\bin\Debug\BookManage.DAL.pdb
+C:\project\bakup_1212\ViewMain\obj\Debug\ResolveAssemblyReference.cache
+C:\project\bakup_1212\ViewMain\obj\Debug\ViewMain.BMSLogin.resources
+C:\project\bakup_1212\ViewMain\obj\Debug\ViewMain.BookForm.resources
+C:\project\bakup_1212\ViewMain\obj\Debug\ViewMain.Properties.Resources.resources
+C:\project\bakup_1212\ViewMain\obj\Debug\ViewMain.ReaderForm.resources
+C:\project\bakup_1212\ViewMain\obj\Debug\ViewMain.TypeForm.resources
+C:\project\bakup_1212\ViewMain\obj\Debug\ViewMain.csproj.GenerateResource.Cache
+C:\project\bakup_1212\ViewMain\obj\Debug\ViewMain.AddBook.resources
+C:\project\bakup_1213\ViewMain\obj\Debug\ViewMain.exe
+C:\project\bakup_1213\ViewMain\obj\Debug\ViewMain.pdb
+C:\project\bakup_1213\ViewMain\obj\Debug\ResolveAssemblyReference.cache
+C:\project\bakup_1213\ViewMain\obj\Debug\ViewMain.AddBook.resources
+C:\project\bakup_1213\ViewMain\obj\Debug\ViewMain.BMSLogin.resources
+C:\project\bakup_1213\ViewMain\obj\Debug\ViewMain.BookForm.resources
+C:\project\bakup_1213\ViewMain\obj\Debug\ViewMain.Properties.Resources.resources
+C:\project\bakup_1213\ViewMain\obj\Debug\ViewMain.ReaderForm.resources
+C:\project\bakup_1213\ViewMain\obj\Debug\ViewMain.TypeForm.resources
+C:\project\bakup_1213\ViewMain\obj\Debug\ViewMain.csproj.GenerateResource.Cache
+C:\project\bakup_1213\ViewMain\bin\Debug\ViewMain.exe
+C:\project\bakup_1213\ViewMain\bin\Debug\ViewMain.pdb
+C:\project\bakup_1213\ViewMain\bin\Debug\BookManage.BLL.dll
+C:\project\bakup_1213\ViewMain\bin\Debug\BookManage.Model.dll
+C:\project\bakup_1213\ViewMain\bin\Debug\BookManage.DAL.dll
+C:\project\bakup_1213\ViewMain\bin\Debug\BookManage.Model.pdb
+C:\project\bakup_1213\ViewMain\bin\Debug\BookManage.BLL.pdb
+C:\project\bakup_1213\ViewMain\bin\Debug\BookManage.DAL.pdb
+C:\project\bakup_1213\ViewMain\obj\Debug\ViewMain.FindBook.resources
+D:\新建文件夹\bakup_1213\ViewMain\obj\Debug\ViewMain.exe
+D:\新建文件夹\bakup_1213\ViewMain\obj\Debug\ViewMain.pdb
+F:\新建文件夹\bakup_1213\ViewMain\obj\Debug\ViewMain.exe
+F:\新建文件夹\bakup_1213\ViewMain\obj\Debug\ViewMain.pdb
+F:\新建文件夹\bakup_1213\ViewMain\obj\Debug\ResolveAssemblyReference.cache
+F:\新建文件夹\bakup_1213\ViewMain\obj\Debug\ViewMain.AddBook.resources
+F:\新建文件夹\bakup_1213\ViewMain\obj\Debug\ViewMain.BMSLogin.resources
+F:\新建文件夹\bakup_1213\ViewMain\obj\Debug\ViewMain.BookForm.resources
+F:\新建文件夹\bakup_1213\ViewMain\obj\Debug\ViewMain.BorrowForm.resources
+F:\新建文件夹\bakup_1213\ViewMain\obj\Debug\ViewMain.FindBook.resources
+F:\新建文件夹\bakup_1213\ViewMain\obj\Debug\ViewMain.Properties.Resources.resources
+F:\新建文件夹\bakup_1213\ViewMain\obj\Debug\ViewMain.ReaderForm.resources
+F:\新建文件夹\bakup_1213\ViewMain\obj\Debug\ViewMain.TypeForm.resources
+F:\新建文件夹\bakup_1213\ViewMain\obj\Debug\ViewMain.csproj.GenerateResource.Cache
+F:\新建文件夹\bakup_1213\ViewMain\bin\Debug\ViewMain.exe
+F:\新建文件夹\bakup_1213\ViewMain\bin\Debug\ViewMain.pdb
+F:\新建文件夹\bakup_1213\ViewMain\bin\Debug\BookManage.BLL.dll
+F:\新建文件夹\bakup_1213\ViewMain\bin\Debug\BookManage.Model.dll
+F:\新建文件夹\bakup_1213\ViewMain\bin\Debug\BookManage.DAL.dll
+F:\新建文件夹\bakup_1213\ViewMain\bin\Debug\BookManage.Model.pdb
+F:\新建文件夹\bakup_1213\ViewMain\bin\Debug\BookManage.BLL.pdb
+F:\新建文件夹\bakup_1213\ViewMain\bin\Debug\BookManage.DAL.pdb
+C:\project\bakup_1216\ViewMain\obj\Debug\ViewMain.exe
+C:\project\bakup_1216\ViewMain\obj\Debug\ViewMain.pdb
+C:\project\bakup_1216\ViewMain\bin\Debug\ViewMain.exe
+C:\project\bakup_1216\ViewMain\bin\Debug\ViewMain.pdb
+C:\project\bakup_1216\ViewMain\bin\Debug\BookManage.BLL.dll
+C:\project\bakup_1216\ViewMain\bin\Debug\BookManage.Model.dll
+C:\project\bakup_1216\ViewMain\bin\Debug\BookManage.DAL.dll
+C:\project\bakup_1216\ViewMain\bin\Debug\BookManage.Model.pdb
+C:\project\bakup_1216\ViewMain\bin\Debug\BookManage.BLL.pdb
+C:\project\bakup_1216\ViewMain\bin\Debug\BookManage.DAL.pdb
+C:\project\bakup_1216\ViewMain\obj\Debug\ResolveAssemblyReference.cache
+C:\project\bakup_1216\ViewMain\obj\Debug\ViewMain.AddBook.resources
+C:\project\bakup_1216\ViewMain\obj\Debug\ViewMain.BMSLogin.resources
+C:\project\bakup_1216\ViewMain\obj\Debug\ViewMain.BookForm.resources
+C:\project\bakup_1216\ViewMain\obj\Debug\ViewMain.BorrowForm.resources
+C:\project\bakup_1216\ViewMain\obj\Debug\ViewMain.FindBook.resources
+C:\project\bakup_1216\ViewMain\obj\Debug\ViewMain.Properties.Resources.resources
+C:\project\bakup_1216\ViewMain\obj\Debug\ViewMain.ReaderForm.resources
+C:\project\bakup_1216\ViewMain\obj\Debug\ViewMain.TypeForm.resources
+C:\project\bakup_1216\ViewMain\obj\Debug\ViewMain.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\bakup_1218\ViewMain\obj\Debug\ViewMain.exe
+C:\Documents and Settings\Administrator\桌面\bakup_1218\ViewMain\obj\Debug\ViewMain.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1218\ViewMain\bin\Debug\ViewMain.exe
+C:\Documents and Settings\Administrator\桌面\bakup_1218\ViewMain\bin\Debug\ViewMain.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1218\ViewMain\bin\Debug\BookManage.BLL.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1218\ViewMain\bin\Debug\BookManage.Model.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1218\ViewMain\bin\Debug\BookManage.DAL.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1218\ViewMain\bin\Debug\BookManage.Model.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1218\ViewMain\bin\Debug\BookManage.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1218\ViewMain\bin\Debug\BookManage.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1218\ViewMain\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\bakup_1218\ViewMain\obj\Debug\ViewMain.AddBook.resources
+C:\Documents and Settings\Administrator\桌面\bakup_1218\ViewMain\obj\Debug\ViewMain.BMSLogin.resources
+C:\Documents and Settings\Administrator\桌面\bakup_1218\ViewMain\obj\Debug\ViewMain.BookForm.resources
+C:\Documents and Settings\Administrator\桌面\bakup_1218\ViewMain\obj\Debug\ViewMain.BorrowForm.resources
+C:\Documents and Settings\Administrator\桌面\bakup_1218\ViewMain\obj\Debug\ViewMain.FindBook.resources
+C:\Documents and Settings\Administrator\桌面\bakup_1218\ViewMain\obj\Debug\ViewMain.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\bakup_1218\ViewMain\obj\Debug\ViewMain.ReaderForm.resources
+C:\Documents and Settings\Administrator\桌面\bakup_1218\ViewMain\obj\Debug\ViewMain.TypeForm.resources
+C:\Documents and Settings\Administrator\桌面\bakup_1218\ViewMain\obj\Debug\ViewMain.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\ViewMain\obj\Debug\ViewMain.exe
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\ViewMain\obj\Debug\ViewMain.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\ViewMain\bin\Debug\ViewMain.exe
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\ViewMain\bin\Debug\ViewMain.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\ViewMain\bin\Debug\BookManage.BLL.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\ViewMain\bin\Debug\BookManage.Model.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\ViewMain\bin\Debug\BookManage.DAL.dll
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\ViewMain\bin\Debug\BookManage.Model.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\ViewMain\bin\Debug\BookManage.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\ViewMain\bin\Debug\BookManage.DAL.pdb
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\ViewMain\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\ViewMain\obj\Debug\ViewMain.AddBook.resources
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\ViewMain\obj\Debug\ViewMain.BMSLogin.resources
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\ViewMain\obj\Debug\ViewMain.BookForm.resources
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\ViewMain\obj\Debug\ViewMain.BorrowForm.resources
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\ViewMain\obj\Debug\ViewMain.FindBook.resources
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\ViewMain\obj\Debug\ViewMain.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\ViewMain\obj\Debug\ViewMain.ReaderForm.resources
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\ViewMain\obj\Debug\ViewMain.TypeForm.resources
+C:\Documents and Settings\Administrator\桌面\bakup_1220\bakup_1218\ViewMain\obj\Debug\ViewMain.csproj.GenerateResource.Cache
+C:\project\bakup_1220\bakup_1218\ViewMain\obj\Debug\ViewMain.exe
+C:\project\bakup_1220\bakup_1218\ViewMain\obj\Debug\ViewMain.pdb
+C:\project\bakup_1220\bakup_1218\ViewMain\bin\Debug\ViewMain.exe
+C:\project\bakup_1220\bakup_1218\ViewMain\bin\Debug\ViewMain.pdb
+C:\project\bakup_1220\bakup_1218\ViewMain\bin\Debug\BookManage.BLL.dll
+C:\project\bakup_1220\bakup_1218\ViewMain\bin\Debug\BookManage.Model.dll
+C:\project\bakup_1220\bakup_1218\ViewMain\bin\Debug\BookManage.DAL.dll
+C:\project\bakup_1220\bakup_1218\ViewMain\bin\Debug\BookManage.Model.pdb
+C:\project\bakup_1220\bakup_1218\ViewMain\bin\Debug\BookManage.BLL.pdb
+C:\project\bakup_1220\bakup_1218\ViewMain\bin\Debug\BookManage.DAL.pdb
+C:\project\bakup_1220\bakup_1218\ViewMain\obj\Debug\ResolveAssemblyReference.cache
+C:\project\bakup_1220\bakup_1218\ViewMain\obj\Debug\ViewMain.AddBook.resources
+C:\project\bakup_1220\bakup_1218\ViewMain\obj\Debug\ViewMain.BMSLogin.resources
+C:\project\bakup_1220\bakup_1218\ViewMain\obj\Debug\ViewMain.BookForm.resources
+C:\project\bakup_1220\bakup_1218\ViewMain\obj\Debug\ViewMain.BorrowForm.resources
+C:\project\bakup_1220\bakup_1218\ViewMain\obj\Debug\ViewMain.FindBook.resources
+C:\project\bakup_1220\bakup_1218\ViewMain\obj\Debug\ViewMain.Properties.Resources.resources
+C:\project\bakup_1220\bakup_1218\ViewMain\obj\Debug\ViewMain.ReaderForm.resources
+C:\project\bakup_1220\bakup_1218\ViewMain\obj\Debug\ViewMain.TypeForm.resources
+C:\project\bakup_1220\bakup_1218\ViewMain\obj\Debug\ViewMain.csproj.GenerateResource.Cache
+C:\project\bakup_1220\bakup_1218\ViewMain\bin\Debug\ViewMain.exe.config
+C:\project\bakup_1220\bakup_1218\ViewMain\obj\Debug\ViewMain.ReportForm.resources
+C:\project\bakup_1220\bakup_1218\ViewMain\obj\Debug\RdlCompile.cache
+C:\project\bakup_1220\bakup_1218\ViewMain\obj\Debug\RdlCompile.compiled
