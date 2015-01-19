@@ -14,3 +14,7 @@ functions:
    the library
 
 3. reader return the borrowed books to library
+
+4. modify the description of a book
+
+5. set the deadline of books which is borrowed out
